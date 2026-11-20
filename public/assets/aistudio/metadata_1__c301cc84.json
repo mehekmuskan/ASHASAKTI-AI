@@ -1,0 +1,10 @@
+{
+  "name": "AshaSakhi-AI",
+  "description": "Your Voice. Her Care. Every Visit Recorded. AI-powered voice-first healthcare field-register assistant for ASHA workers.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
